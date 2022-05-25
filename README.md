@@ -1,1 +1,3 @@
-# Image-classification-using-transfer-learning
+# Image Classification using CNN and ResNet50
+
+The project mainly focuses on image classification with a custom dataset using the algorithm of convolutional neural networks and residual neural networks. The dataset for this project consists of 19 classes namely adult, airplane, bird, bus, car, cat, child, dog, elephant, flower, giraffe, horse, monkey, panda, reptile, train, vessel, and zebra. The training dataset consists of 2230 images while the test dataset consists of 570 images. The goal of this project is to implement the above-mentioned algorithms to classify images successfully. Convolutional neural networks use the technique of convolution to extract features from the dataset. On the other hand, residual neural networks deploy multiple convolutional layers with skip connections. Using the CNN and ResNet50 approach, we have tried to classify the images successfully.  
